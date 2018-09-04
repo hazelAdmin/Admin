@@ -84,6 +84,7 @@ if( empty( $_SESSION['id_user'] ) ){
 	?>
       <!-- Main component for a primary marketing message or call to action -->
 	  
+	  
       <div class="jumbotron">
         <h2>Selamat Datang di Hazel Photo House</h2>
 
