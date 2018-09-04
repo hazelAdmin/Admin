@@ -39,8 +39,8 @@
 		</li>
 	  </ul>
 	  <ul class="nav navbar-nav navbar-right">
-		
-		<li>  <a class="toggle" >	<?php date_default_timezone_set("Asia/Jakarta"); echo date('d F Y H:i', time()); ?> &nbsp; </a></li>
+		<!-- tambahan waktu alfian -->
+		<a class="navbar-brand navbar-left" data-toggle="dropdown" href="#" style="margin:0 0px 0px 0"><?php date_default_timezone_set("Asia/Jakarta"); echo date('d F Y ', time()); ?> &nbsp;</a>
 		<li class="dropdown">
 		  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
 		
