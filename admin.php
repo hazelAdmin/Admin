@@ -99,7 +99,8 @@ if( empty( $_SESSION['id_user'] ) ){
 	<?php
 	}
 	?>
-    </div>    
+    </div>    <!-- Containergit 
+	 -->
 
 
   
