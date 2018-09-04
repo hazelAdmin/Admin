@@ -18,7 +18,7 @@ if( empty( $_SESSION['id_user'] ) ){
     <meta name="author" content="">
     <title>Cashier Hazel Photo House</title>
     <!-- Bootstrap core CSS -->
-	 <!-- Bootstrap core CSS -->
+	
     <link href="css/bootstrap.css" rel="stylesheet">
 	<link href="css/jquery-ui.min.css" rel="stylesheet">
 	<link href="assets/js/dataTables/dataTables.bootstrap.css" rel="stylesheet" />
