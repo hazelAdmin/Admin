@@ -118,7 +118,9 @@
             unset($_SESSION['err']);
 		}
 		?>
-        <h2 class="form-signin-heading">Login Admin</h2>
+		<!-- Penambahan Logo -->
+        <h2 class="form-signin-heading" style="text-align:center">
+		<img src="logo.png" width="40" height="40" style="float:center; margin:0 8px 8px 0;"/>Please Login</h2>
         <input type="text" name="username" class="form-control" placeholder="Username" required autofocus>
         <input type="password" name="password" class="form-control" placeholder="Password" required>
         <button class="btn btn-lg btn-primary btn-block" type="submit" name="login">Login</button>
