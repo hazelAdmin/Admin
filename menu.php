@@ -13,7 +13,8 @@
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	  </button>
-	  <a class="navbar-brand" href="">Cashier Hazel Photo House</a>
+		<!-- Judul dan Logo Hazel -->
+	  <a class="navbar-brand" href="" ><img src="beranda.png" width="30" height="20" style="float:left; margin:0 3px 5px 0"/>Cashier Hazel Photo House</a>
 	</div>
 	<div class="navbar-collapse collapse">
 	  <ul class="nav navbar-nav">
